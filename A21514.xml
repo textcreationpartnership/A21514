@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamacion, set furth by the kynges Maiestie with thassent of his derest vncle, Edward Duke of Somerset, gouernor of his moste royall persone, and of his realmes, dominions and subiectes protector, and others of his moste honorable counsaill, touchyng tale talers and sedicious runnagates.</title>
+            <title>Proclamations. 1549-01-28</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1549</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21514</idno>
+            <idno type="STC">STC 7824</idno>
+            <idno type="STC">ESTC S110358</idno>
+            <idno type="EEBO-CITATION">99845915</idno>
+            <idno type="PROQUEST">99845915</idno>
+            <idno type="VID">10846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10846)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 25:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamacion, set furth by the kynges Maiestie with thassent of his derest vncle, Edward Duke of Somerset, gouernor of his moste royall persone, and of his realmes, dominions and subiectes protector, and others of his moste honorable counsaill, touchyng tale talers and sedicious runnagates.</title>
+                  <title>Proclamations. 1549-01-28</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Richardi Graftoni Regij impressoris. Cum priuilegio ad imprimendum solum,</publisher>
+                  <pubPlace>Excusum Londini :</pubPlace>
+                  <date>[1549]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sedition --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:10846:1"/>
+            <head>¶ A Proclamation, ſet furth by the kynges Maieſtie, with thaſſent of his deteſt vncle, Edward Duke of Somerſet, Gouernor of his moſte royall perſone, and of his realmes, dominions and ſubiectes Protector, and others of his moſte honorable Counſaill, touchyng tale talers and ſedicious runnagates.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He kynges moſte excellent Maieſtie hath certaine knowlege geuen aſ<g ref="char:EOLhyphen"/>well to his owne maieſtie, as to his moſte dere Vncle Edwarde duke of Somerſet, gouernor of his perſon, and Protector of all his Realmes, dominions and ſubiectes, and to the reſt of his highnes counſail, that in diuers his Maieſties Counties of this his Realme, there be diſperſed and ſeuered abrode, ſundry light, lewed, idle, ſedicious, buſie, and diſor<g ref="char:EOLhyphen"/>dred perſones, whereof the moſte part haue neither place to inhabite in, neither ſeketh any ſtay to liue by, but hauyng been either co<g ref="char:cmbAbbrStroke">̄</g>dempned of felonies and priſon breakers, runne from the warres, and ſea rouers, departed from the kynges Guarri<g ref="char:EOLhyphen"/>ſons and loyterers, wherby they become deſperate perſones, and nowe enploy and labor themſelfes, run<g ref="char:EOLhyphen"/>nyng &amp; poſtyng from place to place, countie to countie, toune to toune, by day to day, to ſtirre vp rumors, raiſe vp tales, imagyn newes, whereby they ſeke to ſtirre, gather together and aſſemble, the kynges true ſubiectes of ſimplicitie and ignoraunce deceiued, and by that pretence, ſuche lewed ruffyans, tale tellers, and vnruly vacabondes, become ryngleders and maſters of the kynges people, ſekyng to ſpoile, robbe, and rauin, where and whom they liſt or may, and ſo to liue, waxe riche, and feede of other mennes labors, money &amp; fode, they themſelues nother willyng to ſerue where they might, neither abidyng when they be well entertained: And beyng thus in ſeueral places of this his realme, at y<hi rend="sup">e</hi> laſt not hable long to continue together with their aſſembles, accordyng to their miſchiuous purpoſes, theſame aſſembles beyng in ſub<g ref="char:EOLhyphen"/>ſtaunce, of ſuche the kynges poore ſubiectes, as though by ignoraunce and enticeme<g ref="char:cmbAbbrStroke">̄</g>tes of thoſe foreſayd tale tellers they offende, yet ſhortly by the goodnes of God acknowlege their faultes, and returne them<g ref="char:EOLhyphen"/>ſelfes to their dueties, moſt ſorowfully repent, receiuyng for theſame, the kynges Maieſties great mercy by his pardon, &amp; by the reaſon of the quiet ordre, the fallyng, ceſſyng &amp; appealyng of ſuche aſſembles, the ſayd runnagates, tale tellers, &amp; ſedicious perſones, faile and lacke their purpoſes &amp; miſcheuous intentes, ſo that they accuſtomyng their euil nature and eſcapyng from the places of their firſt attemptes, haue &amp; do daily reſort to newe places, and ſo from place to place, Shere to Shere, neuer quietyng themſelfe, but deuiſyng ſlaunderous tales, and diuulgyng to the people ſuche kynde of newes, as they thynke may moſte readely moue them to vprores and tumultes, and for the further deceipt alſo, pretend to them they ſeke to redreſſe the commen wealth: Therfore his Maieſtie by thaduiſe of his ſayd deare vncle the lorde Protector and the reſt of his Maieſties preuie counſail, to the aduoidyng of the great inconueniences. whiche of the ſufferaunce hereof dayly doth enſue, and to admoniſhe his good ſubiectes, whiche hitherto haue not felte the peril of theſe poyſoned euil people, moſte ſtraitly chargeth and co<g ref="char:cmbAbbrStroke">̄</g>maundeth all maner and euery his Iuſtices, Shiriffes, Conſtables, Bayliffes, Hedboroughes and all other his Maieſties miniſters and officers whatſoeuer thei be, to be moſt diligent, and from tyme to tyme, to be in their charge attendant, and therin alſo to take ſome good eſpecial pollitike order for the apprehenſion and attachyng of all maner of ſuche perſones whatſoeuer they be, whiche either as vacabundes, waifaryng men, ſtrag<g ref="char:EOLunhyphen"/>lars, or otherwiſe, in what maner ſoeuer he be, ſhal bryng any tale to any place, or inue<g ref="char:cmbAbbrStroke">̄</g>t or tel any newes, or conceale and kepe cloſe lenger then he may conuenient, the brynger, inuentor, or teller, whiche tale or newes ſo brought, inuented or tolde, ſhall, doth, or may cauſe, any vnlawfull aſſembly of people, or any tumulte and vprore, or ſhal ſounde ſlaunderous to the kynges Maieſtie his croune, the lorde Protector and other of his counſail, or any otherwiſe ſhall moue the people vnlawfully to remedy or redreſſe their owne cauſes, and griefes by force &amp; without lawe, whiche office belongeth onely to the kynges Maieſtie
+<pb facs="tcp:10846:2" rendition="simple:additions"/> and to the Mageſtrates vnder him, and therin daily, his Maieſties ſayd dere vncle and counſail, moſte ſtudiouſly trauaileth. And theſame lewed perſon or perſones ſo apprehended, to be brought vnto the kynges Maieſtie or his ſayd vncle and cou<g ref="char:cmbAbbrStroke">̄</g>ſail, or to any one of his ſayd counſal, for euery the whiche ſo brought, The kynges maieſtie aſſureth his officer and miniſter, the brynger of him not onely his coſtes and charges fully to be payed: But alſo to haue his Maieſties moſte heartie and effectual tha<g ref="char:cmbAbbrStroke">̄</g>kes. And if any other the kynges Maieſties louyng ſubiectes, ſhall at any tyme knowe certainly any ſuche tale carier, or rumor runner, newes ſpredder, or ſedicion ſower, and of him ſo informe and geue knowlege to any of the kynges Maieſties officers or miniſters, ſo that theſame euil perſon, either might or is taken and apprehe<g ref="char:cmbAbbrStroke">̄</g>ded by theſame officer and by force of theſayd informacion, then likewiſe theſame informer. knowlege geuer, accuſer, and vtterer, ſhall haue of the kynges Maieſties rewarde, for euery ſuche ma<g ref="char:EOLhyphen"/>lefactor by him diſcloſed and apprehended in maner as is aboueſayd xx. crounes, beſides like heartie tha<g ref="char:cmbAbbrStroke">̄</g>kes from his Maieſtie. Geuen at Richmount the viii. of Iuly, the third yere of the reigne of the kyn<g ref="char:EOLhyphen"/>ges excellent Maieſtie Edward the. <hi>VI.</hi>
+            </p>
+            <closer>God ſaue the Kyng.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Excuſum Londini. in edibus Richardi Graftoni Regij impreſſoris. Cum priuilegio ad imprimendum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
